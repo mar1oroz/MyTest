@@ -1,0 +1,13 @@
+/Users/marianrozumnyi/Projects/Arreys/Arreys/bin/Debug/netcoreapp3.1/Arreys.deps.json
+/Users/marianrozumnyi/Projects/Arreys/Arreys/bin/Debug/netcoreapp3.1/Arreys.runtimeconfig.json
+/Users/marianrozumnyi/Projects/Arreys/Arreys/bin/Debug/netcoreapp3.1/Arreys.runtimeconfig.dev.json
+/Users/marianrozumnyi/Projects/Arreys/Arreys/bin/Debug/netcoreapp3.1/Arreys.dll
+/Users/marianrozumnyi/Projects/Arreys/Arreys/bin/Debug/netcoreapp3.1/Arreys.pdb
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.csproj.AssemblyReference.cache
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.AssemblyInfoInputs.cache
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.AssemblyInfo.cs
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.csproj.CoreCompileInputs.cache
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.dll
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.pdb
+/Users/marianrozumnyi/Projects/Arreys/Arreys/obj/Debug/netcoreapp3.1/Arreys.genruntimeconfig.cache

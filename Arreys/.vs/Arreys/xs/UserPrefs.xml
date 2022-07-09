@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DEA2186F-6CA5-428F-9311-4D395411A2A7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arreys" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../Desktop/програмування/[ITVDN] C# Starter/009_Arrays/001_Arrays/Arrays2/Program.cs" line="10" column="18" endLine="10" endColumn="36" offsetX="-1" offsetY="-1" expression="array" liveUpdate="False" />
+    <Watch file="../../../../info/Program.cs" line="8" column="18" endLine="8" endColumn="25" offsetX="-1" offsetY="-1" expression="myArrey" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Arreys PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
