@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{68F1E73F-FD54-42FA-9D4B-613D9DB5E291}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arreys/Program.cs">
+﻿<Properties StartupConfiguration="{231BA6F2-3416-470D-A90A-D54B411D1C34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arreys4/Program.cs">
     <Files>
-      <File FileName="Arreys/Program.cs" Line="1" Column="1" />
+      <File FileName="Arreys4.1/Program.cs" Line="10" Column="8" />
+      <File FileName="Arreys2/Program.cs" Line="6" Column="6" />
+      <File FileName="Arreys4/Program.cs" Line="53" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Arreys" expanded="True">
-            <Node name="Arreys" expanded="True">
+            <Node name="Arreys2" expanded="True" />
+            <Node name="Arreys4" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,6 +23,7 @@
     <Watch file="../../../../Arreys/info/Program.cs" line="8" column="18" endLine="8" endColumn="25" offsetX="-1" offsetY="-1" expression="myArrey" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Arreys2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
