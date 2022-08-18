@@ -17,7 +17,7 @@ namespace Arreys
         static void Main(string[] args)
         {
             int[] Arreys = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-
+            //change one 
             Console.WriteLine(Arreys[Arreys.Length - 1]);
             Console.WriteLine(Arreys[Arreys.Length - 2]);
             Console.WriteLine(Arreys[^3]);
@@ -25,8 +25,7 @@ namespace Arreys
             Console.WriteLine(Arreys[^5]);
             Console.WriteLine(Arreys[^6]);
             Console.WriteLine(Arreys[^7]);
-            Console.WriteLine(Arreys[^8]);
-            Console.WriteLine(Arreys[^9]);
+            //Console.WriteLine(Arreys[^8]);
             Console.WriteLine(Arreys[^10]);
 
         }
